@@ -1,0 +1,1 @@
+# cuzdanim-delete-account
